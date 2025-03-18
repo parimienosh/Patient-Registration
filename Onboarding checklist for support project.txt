@@ -1,0 +1,26 @@
+Onboarding checklist for support project
+
+Paragraph
+Styles
+Onboarding checklist for support project:
+Adobe Acrobat|
+Voice
+Sensitivity
+Editor
+Add-ins
+1. Initiate request to get the client id
+2. Once you receive client ID, complete the below:
+a. Reset the password using the link provided in your onboarding mail.
+b. Complete the Client compliance course
+c. Raise Service Now request to get the client mail and teams communication channels
+d. Raise Service Now request to get the Citrix VPN and thin client
+e. Raise Service Now request to get the access to bitbucket, lira and confluence related to the application that you are going to map
+3. Get the functional KT of your project that you mapped to and go through the KT
+recordings as applicable for all the domains within the application
+4. Login to the application and navigate over the screens to understand the functionality
+5. Understand the DB models and scripts that are needed to support the incidents resolution
+ctions: On
+6. Understand the GCP console and logging and to monitor the batch jobs within the application
+7. Raise request to get the DB access and Understand the DB models and process to be followed while running the DB queries to ensure no PROD outage happens when
+running the queries.
+8. Understand the upstream and downstream related systems of your application and try to understand the way of communication happening
