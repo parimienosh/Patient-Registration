@@ -1,0 +1,22 @@
+Onboarding checklist for Development project: 
+
+Onboarding checklist:
+
+1. Initiate request to get the client id
+2. Once you receive client ID, complete the below:
+a. Reset the password using the link provided in your onboarding mail.
+b. Complete the Client compliance course
+c. Raise Service Now request to get the client mail and teams communication channels
+d. Raise Service Now request to get the VPN access to connect to the client related applications and tools
+e. Raise Service Now request to get the access to bitbucket, jira and confluence related to the application that you are going to map
+3. Get the functional KT of your project that you mapped to and go through the KT
+recordings as applicable
+4. Login to the application and navigate over the screens to understand the
+I
+functionality
+5. Complete the code setup in your local desktop
+6. Understand the application code base and try to validate APls through postman collections and from Ul
+7. Understand the DB models
+8. Understand the upstream and downstream related systems of your application and try to understand the way of communication happening
+9. Analyze the current release business features and contribute to the
+Development/support based on your assignment
